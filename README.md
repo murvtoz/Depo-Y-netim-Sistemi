@@ -1,1 +1,1 @@
-# Depo-Y-netim-Sistemi
+# Depo-Yonetim-Sistemi
